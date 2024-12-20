@@ -7,7 +7,7 @@ This repository organises projects focused on motorsport data visualisation. The
 ### 1. [Lap Time Trends Visualiser](https://github.com/RacingFormula/Lap-Time-Trends-Visualiser)
 Plots lap time trends for drivers across a race to identify performance patterns.
 
-### 2. [Sector Performance Comparator](https://github.com/RacingFormula/Sector-Performance-Comparator)
+### 2. [Sector Performance Comparison](https://github.com/RacingFormula/Sector-Performance-Comparison)
 Compares sector times for multiple drivers to highlight performance differences.
 
 ### 3. [Race Strategy Dashboard](https://github.com/RacingFormula/Race-Strategy-Dashboard)
